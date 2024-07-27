@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+"Conflicting change in master" 
+=======
+"Additional content for the branch" 
+"Further changes in the branch" 
+>>>>>>> my_new_branch
